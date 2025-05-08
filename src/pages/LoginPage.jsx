@@ -139,8 +139,7 @@ const LoginPage = () => {
           <div className="mt-8 border-t border-neutral-200 pt-6">
             <div className="text-center text-sm text-neutral-500">
               <p className="mb-2">Demo Accounts:</p>
-              <p>Admin: admin@infinix.com / admin123</p>
-              <p>User: john@example.com / password123</p>
+              
             </div>
           </div>
         </motion.div>
